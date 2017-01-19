@@ -1,0 +1,5 @@
+EDITOR=/usr/bin/vim
+LESS=' -R '
+PAGER='/usr/bin/vimpager'
+BROWSER='/usr/bin/chromium'
+
